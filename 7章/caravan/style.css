@@ -80,6 +80,24 @@ main {
   color: #fff;
   font-size: 11px;
 }
+.blog-image{
+  height: 180px;
+  float: left;
+}
+.blog-text{
+  float: left;
+  padding: 30px 25px;
+}
+.blog-box{
+  padding-top: 50px;
+}
+.blog-date{
+  font-size: 24px;
+  display: inline-block;
+}
+.blog-text-headline{
+  padding-bottom: 15px;
+}
 .sidebar {
   width: 230px;
   float: left;
