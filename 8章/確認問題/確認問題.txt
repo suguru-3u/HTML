@@ -1,0 +1,11 @@
+問１　正解
+2
+
+問２　正解
+index.htmlに記述
+
+問３　正解
+style.cssに記述
+
+問４　正解
+style.cssに記述
