@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main{
+  width: 960px;
+  margin: 0 auto;
+}
+.box{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 300px;
+  border: 1px solid #dcdcdc;
+  position: relative;
+  float: left;
+}
+.box:nth-child(2){
+  margin: 50px 30px;
+}
+
+.step p{
+  background-color: #ffa500;
+  color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+}
+.box-img img{
+  width: 280px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.paragh{
+  width: 280px;
+  margin: 0 auto;
+}
