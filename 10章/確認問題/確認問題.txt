@@ -1,0 +1,8 @@
+問１　正解
+全て
+
+問２　正解
+２、３
+
+問３　正解
+@media screen and (max-width: 768px)
